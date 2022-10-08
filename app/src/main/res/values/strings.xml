@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Teste de Daltonismo</string>
+    <string name="o_que">O que é?</string>
+    <string name="faca_o_teste">Faça o teste!</string>
+    <string name="daltonismo_uma_perturba_o_da_percep_o_visual_caracterizada_pela_incapacidade_de_diferenciar_todas_ou_algumas_cores_manifestando_se_muitas_vezes_pela_dificuldade_em_distinguir_o_verde_do_vermelho">Daltonismo é uma perturbação da percepção visual caracterizada pela incapacidade de diferenciar todas ou algumas cores, manifestando-se muitas vezes pela dificuldade em distinguir o verde do vermelho</string>
+    <string name="teste_1">Teste 1</string>
+    <string name="teste_3">Teste 3</string>
+    <string name="teste_2">Teste 2</string>
+    <string name="verificar">Verificar</string>
+    <string name="suas_respostas">Suas Respostas:</string>
+    <string name="resposta_2">Resposta 2</string>
+    <string name="resposta_1">Resposta 1</string>
+    <string name="resposta_3">Resposta 3</string>
+    <string name="digite_o_valor">Digite o valor:</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="imagem_para_teste_de_daltonismo">Imagem para teste de daltonismo</string>
+    <string name="que_numero_voce_ve_na_imagem">Que número você vê na imagem?</string>
+    <string name="imagem_de_teste">Imagem de Teste</string>
+</resources>
